@@ -72,6 +72,6 @@
 
     ***Bài tập***  
     Hãy tạo mới một file .html, trong đó sử dụng JavaScript, in ra màn hình console thông tin cá nhân, bao gồm tên, tuổi, địa chỉ, số điện thoại.
-    [Lời giải](excercise_solution.md)
+    [Lời giải](./excercise_solution.md)
 
 *Bài tiếp theo [Biến (Variables)](../variables/variables.md)*
